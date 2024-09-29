@@ -1,6 +1,6 @@
 <h1 align="center">I'm Nandakumar</h1>
 <h3 align="center">A passionate GoLang & Node.js developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFnbjMzeXVlZTBtbTVpOGgxM3RjbXI5cnB6eDc4cnphc3luZ291ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30px" alt="Git"/></h3>
-<img align="right" alt="golang" width="150" src="[https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif](https://github.com/nanda03dev/nanda03dev/blob/main/go-node-logo.png)">
+<img align="right" alt="golang" width="150" src="https://github.com/nanda03dev/nanda03dev/blob/main/go-node-logo.png">
 
 - 🌱 Official GitHub: [github.com/nanda03dev](https://github.com/nanda03dev)
 
