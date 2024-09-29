@@ -12,7 +12,7 @@
 ## 📁 Projects
 - **[GnoSQL](https://github.com/nanda03dev/gnosql):** A lightweight, in-memory NoSQL database implemented in Go, offering a simple API for concurrent operations.
 - **[Gque](https://github.com/nanda03dev/gque):** A high-throughput message queue protocol in Go, utilizing a NoSQL database for storing broadcast queues and messages.
-- **[go-ms-template](https://github.com/nanda03dev/go-ms-clean-template):** A scalable microservice template inspired by NestJS, built on Clean Architecture principles, ready for MongoDB and PostgreSQL.
+- **[GoCleanMS](https://github.com/nanda03dev/go-ms-clean-template):** A scalable microservice template inspired by NestJS, built on Clean Architecture principles, ready for MongoDB and PostgreSQL.
 - **[Gcart](https://github.com/nanda03dev/gcart):** A Go-based backend for managing an online store, using Gin for RESTful APIs and integrating Gnosql and Gque.
 - **[Erlang Server](https://github.com/nanda03dev/erlang-genserver-rest):** A basic REST server in Erlang managed by a Supervisor.
 
